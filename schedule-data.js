@@ -1,0 +1,20 @@
+// Sunday AM/PM roster (Camera Operator) — edit this file to update the schedule everywhere
+export const schedule = [
+  { date: "2026-09-06", am: "Paul", pm: "Joyce" },
+  { date: "2026-09-13", am: "Kevin", pm: "Nehemiah" },
+  { date: "2026-09-20", am: "Rotlhe", pm: "Kevin" },
+  { date: "2026-09-27", am: "Paul", pm: "Joyce" },
+  { date: "2026-10-04", am: "Kevin", pm: "Nehemiah" },
+  { date: "2026-10-11", am: "Rotlhe", pm: "Kevin" },
+  { date: "2026-10-18", am: "Paul", pm: "Joyce" },
+  { date: "2026-10-25", am: "Kevin", pm: "Nehemiah" },
+  { date: "2026-11-01", am: "Rotlhe", pm: "Kevin" },
+  { date: "2026-11-08", am: "Paul", pm: "Joyce" },
+  { date: "2026-11-15", am: "Kevin", pm: "Nehemiah" },
+  { date: "2026-11-22", am: "Rotlhe", pm: "Kevin" },
+  { date: "2026-11-29", am: "Paul", pm: "Joyce" },
+  { date: "2026-12-06", am: "Kevin", pm: "Nehemiah" },
+  { date: "2026-12-13", am: "Rotlhe", pm: "Kevin" },
+  { date: "2026-12-20", am: "Paul", pm: "Joyce" },
+  { date: "2026-12-27", am: "Kevin", pm: "Nehemiah" },
+];
